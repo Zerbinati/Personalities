@@ -1,0 +1,40 @@
+{
+    "name": "Default",
+    "description": "Default universal style.",
+    "Elo_Note": "Suggested Elo: 2900",
+    "PersonalityBook": true,
+    "BookFile": "books/default.bin",
+    "BookWidth": 14,
+    "BookDepth": 18,
+    "evaluation": {
+        "Aggressiveness": 25,
+        "RiskTaking": 15,
+        "KingSafety": 40,
+        "PieceActivity": 50,
+        "PawnStructure": 50,
+        "KnightPair": 35,
+        "BishopPair": 40,
+        "Defense": 45,
+        "CalculationDepth": 18,
+        "EndgameKnowledge": 50,
+        "PieceSacrifice": 30,
+        "CenterControl": 50,
+        "PositionClosure": 25,
+        "PieceTrade": 35,
+        "KingAttack": 40,
+        "PositionalSacrifice": 20,
+        "KnightVsBishop": 5,
+        "PawnPush": 35,
+        "OpenFileControl": 45,
+        "RookActivity": 40,
+        "PawnStorm": 25,
+        "SacrificeFrequency": 25,
+        "KingMobility": 25,
+        "PieceCoordination": 50,
+        "HumanImperfection": 10
+    },
+    "loss_streak": 0
+}
+
+
+
